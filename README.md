@@ -1,8 +1,9 @@
-# Hi there, I'm Amine Hamouchi 👋
+<p align="center">
+  # Hi there, I'm Amine Hamouchi 👋
+</p>
 
 Welcome to my GitHub profile! I’m a passionate and motivated computer science student with a strong foundation in programming, software development, and technological innovation. Let me guide you through my journey and highlight my projects and skills.
 
----
 
 ## 🎨 About Me
 
@@ -11,13 +12,11 @@ Welcome to my GitHub profile! I’m a passionate and motivated computer science 
 - 🧠 Constantly exploring advancements in **artificial intelligence**, **machine learning**, and **new technologies**.
 - 🔧 Dedicated to problem-solving and team collaboration in technical projects.
 
----
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AMiNeC777&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
-
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AMiNeC777&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 ## 🌐 Projects
 
@@ -28,23 +27,17 @@ Welcome to my GitHub profile! I’m a passionate and motivated computer science 
 ### 🔖 Programming Language Interpreter and Compiler
 - Developing an interpreter and compiler for a custom programming language.
 
----
 
-## 🎨 Skills
+## 🛠️ Tools
 
-### Programming Languages
-- **C**, **Java**, **Python**
+### 👨‍💻 Programming Languages
+HTML • CSS • JavaScript • C • Python • Java • SQL
 
-### Web Development
-- **HTML**, **CSS**, **JavaScript**, **PHP**
+### 🧰 Frameworks and Libraries
+• NestJS • TensorFlow • PyQt • Tkinter • Costum Tkinter 
 
-### Database Management
-- Proficient in **SQL**, relational algebra, and data modeling with **UML** and **MERISE**
-
-### Tools
-- **Eclipse**, **Visual Studio Code**, **SQL** databases
-
----
+### 💻 Software and Tools
+Git • GitHub • Docker • VS Code • pycharm
 
 ## 🚀 Tech Interests
 
@@ -52,14 +45,6 @@ Welcome to my GitHub profile! I’m a passionate and motivated computer science 
 - **Software Development**
 - Researching and implementing **new technologies**
 
----
-
-## 🌟 Fun Facts
-
-- Fluent in **Arabic**, **English**, **French**, and **Amazighe**.
-- Based in Sefrou, Morocco, and always eager to learn and grow in the tech field.
-
----
 
 ## 📞 Let's Connect
 
@@ -67,7 +52,6 @@ Welcome to my GitHub profile! I’m a passionate and motivated computer science 
 - 🌐 **LinkedIn**: [Amine Hamouchi](https://www.linkedin.com/in/amine-hamouchi-8b572331b/)
 - 📧 **Email**: aminehamouchi69@gmail.com
 
----
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or learn more about my work. Let’s innovate together! ✨
 
