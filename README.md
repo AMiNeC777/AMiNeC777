@@ -38,34 +38,16 @@ I’m Amine Hamouchi, a passionate computer science student driven by a love for
 
 ### 👨‍💻 Programming Languages
 
-<p>
-    <a href="https://github.com/search?q=user%3Agrichali+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agrichali+is%3Arepo+language%3acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agrichali+is%3Arepo+language%3ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Agrichali+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agrichali+is%3Arepo+language%3apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agrichali+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Agrichali+is%3Arepo+language%3asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c,java,dart,plsql)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries
 
-<p>
-    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
-    <a href="#"><img alt="PyQt" src="https://img.shields.io/badge/PyQt-%234B8BBE.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-%2337646F.svg?logo=python&logoColor=white"></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,tensorflow)](https://skillicons.dev)
 
 
 ### 💻 Software and Tools
 
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,blender,ps)](https://skillicons.dev)
 
 
 ## 🚀 Tech Interests
