@@ -1,22 +1,33 @@
-<h1 align="center">
-Hi, I'm Amine Hamouchi!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=AMiNeC777&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="AMiNeC777" />
+<h1 align="center">Hi, I'm Amine Hamouchi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=AMiNeC777&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="AMiNeC777" />
 
-I’m Amine Hamouchi, a passionate computer science student driven by a love for problem-solving and innovation. I enjoy creating efficient, user-focused solutions and exploring the latest technologies to tackle challenges in software development.
+## 👨‍💻 About Me
 
+I'm Amine Hamouchi, a passionate computer science student and developer driven by a love for problem-solving and innovation. Currently pursuing my Master's degree at ENSAM Casablanca, I specialize in **Big Data**, **IoT**, and **Artificial Intelligence**. I enjoy creating efficient, user-focused solutions and exploring the latest technologies to tackle challenges in software development.
 
-## 🎨 About Me
+- 🎓 **Master's Student in Computer Science** at ENSAM Casablanca, specializing in Big Data, IoT, and AI
+- 📱 **Web & Mobile Apps Developer** with expertise in creating scalable applications
+- 📢 **Media Manager** at FSTE IT CLUB (March 2025 - Present)
+- 📍 Based in **Casablaba, Morocco**
+- 🧠 Constantly exploring advancements in **artificial intelligence**, **machine learning**, and **emerging technologies**
+- 🔧 Dedicated to problem-solving and team collaboration in technical projects
 
-- 🎓 Currently pursuing a **Bachelor's in Software Engineering** at the Faculty of Sciences and Techniques of Errachidia.
-- ⚛️ Strong skills in **web development**, **database management**, and **programming languages**.
-- 🧠 Constantly exploring advancements in **artificial intelligence**, **machine learning**, and **new technologies**.
-- 🔧 Dedicated to problem-solving and team collaboration in technical projects.
+## 🎓 Education
+
+- **Master's Degree in Computer Science** - ENSAM Casablanca (September 2025 - Present)
+  - Specialization: Big Data, IoT, Artificial Intelligence
+- **Licence in Software Engineering (Science et Techniques - Génie Logiciel)** - Faculty of Sciences and Techniques of Errachidia (2024 - July 2025)
+- **DEUST MIP** (Mathematics, Computer Science, and Physics) - Faculty of Sciences and Techniques of Errachidia (2022 - 2024)
+- **Baccalaureate in Physical Sciences** - Lycée Mohammed VI Alnif (2021 - 2022)
+
+## 💼 Experience
+
+- **Media Manager** at FSTE IT CLUB (March 2025 - Present)
+  - Errachidia Province, Drâa-Tafilalet, Morocco
+  - Managing social media presence and digital communications for the club
 
 ## 🔥 Streak Stats
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -33,36 +44,28 @@ I’m Amine Hamouchi, a passionate computer science student driven by a love for
 ### 🔖 Programming Language Interpreter and Compiler
 - Developing an interpreter and compiler for a custom programming language.
 
-
-## 🛠️ Tools
+## 🛠️ Tools & Technologies
 
 ### 👨‍💻 Programming Languages
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c,java,dart,plsql)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries
-
 [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,tensorflow)](https://skillicons.dev)
 
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 
-### 💻 Software and Tools
+### ☁️ Cloud & Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,blender,ps)](https://skillicons.dev)
+## 📫 Contact Me
 
+- 📧 Email: [aminehamouchi69@gmail.com](mailto:aminehamouchi69@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/amine-hamouchi](https://www.linkedin.com/in/amine-hamouchi)
+- 🐙 GitHub: [@AMiNeC777](https://github.com/AMiNeC777)
 
-## 🚀 Tech Interests
+---
 
-- **Artificial Intelligence** and **Machine Learning**
-- **Software Development**
-- Researching and implementing **new technologies**
-
-
-## 📞 Let's Connect
-
-- 🔗 **GitHub**: [AMiNeC777](https://github.com/AMiNeC777)
-- 🌐 **LinkedIn**: [Amine Hamouchi](https://www.linkedin.com/in/amine-hamouchi-8b572331b/)
-- 📧 **Email**: aminehamouchi69@gmail.com
-
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or learn more about my work. Let’s innovate together! ✨
-
+<p align="center">
+  <i>"Always learning, always growing, always coding!"</i>
+</p>
