@@ -29,11 +29,7 @@ I'm Amine Hamouchi, a passionate computer science student and developer driven b
 
 ## 🔥 Streak Stats
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amine's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AMiNeC777&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AMiNeC777&hide_border=true&border_radius=5.1&mode=weekly&background=45%2C8E00EB%2C0EC0EB" alt="GitHub Streak" /></a>
 
 ## 🌐 Projects
 
