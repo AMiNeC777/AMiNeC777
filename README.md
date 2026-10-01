@@ -58,27 +58,27 @@ I'm especially interested in **inference engine optimization, efficient model se
 <p><strong>AI & data</strong></p>
 <a href="https://github.com/tandpfun/skill-icons">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=dark&amp;perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=light&amp;perline=6">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=light&amp;perline=6" alt="Python, scikit-learn, FastAPI, Kafka, PostgreSQL and MongoDB" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=dark&amp;perline=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=light&amp;perline=1">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=light&amp;perline=1" alt="Python, scikit-learn, FastAPI, Kafka, PostgreSQL and MongoDB" width="32">
   </picture>
 </a>
 
 <p><strong>Infrastructure & delivery</strong></p>
 <a href="https://github.com/tandpfun/skill-icons">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=dark&amp;perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=light&amp;perline=6">
-    <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=light&amp;perline=6" alt="Docker, Linux, Jenkins, Prometheus, Grafana and Nginx" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=dark&amp;perline=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=light&amp;perline=1">
+    <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=light&amp;perline=1" alt="Docker, Linux, Jenkins, Prometheus, Grafana and Nginx" width="32">
   </picture>
 </a>
 
 <p><strong>Application engineering</strong></p>
 <a href="https://github.com/tandpfun/skill-icons">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=dark&amp;perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=light&amp;perline=6">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=light&amp;perline=6" alt="Java, Spring, TypeScript, Next.js, NestJS and Git" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=dark&amp;perline=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=light&amp;perline=1">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=light&amp;perline=1" alt="Java, Spring, TypeScript, Next.js, NestJS and Git" width="32">
   </picture>
 </a>
 
