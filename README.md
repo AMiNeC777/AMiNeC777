@@ -1,67 +1,81 @@
-<h1 align="center">Hi, I'm Amine Hamouchi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-
-<img src="https://komarev.com/ghpvc/?username=AMiNeC777&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="AMiNeC777" />
-
-## 👨‍💻 About Me
-
-I'm Amine Hamouchi, a passionate computer science student and developer driven by a love for problem-solving and innovation. Currently pursuing my Master's degree at ENSAM Casablanca, I specialize in **Big Data**, **IoT**, and **Artificial Intelligence**. I enjoy creating efficient, user-focused solutions and exploring the latest technologies to tackle challenges in software development.
-
-- 🎓 **Master's Student in Computer Science** at ENSAM Casablanca, specializing in Big Data, IoT, and AI
-- 📱 **Web & Mobile Apps Developer** with expertise in creating scalable applications
-- 📢 **Media Manager** at FSTE IT CLUB (March 2025 - Present)
-- 📍 Based in **Casablaba, Morocco**
-- 🧠 Constantly exploring advancements in **artificial intelligence**, **machine learning**, and **emerging technologies**
-- 🔧 Dedicated to problem-solving and team collaboration in technical projects
-
-## 🎓 Education
-
-- **Master's Degree in Computer Science** - ENSAM Casablanca (September 2025 - Present)
-  - Specialization: Big Data, IoT, Artificial Intelligence
-- **Licence in Software Engineering (Science et Techniques - Génie Logiciel)** - Faculty of Sciences and Techniques of Errachidia (2024 - July 2025)
-- **DEUST MIP** (Mathematics, Computer Science, and Physics) - Faculty of Sciences and Techniques of Errachidia (2022 - 2024)
-- **Baccalaureate in Physical Sciences** - Lycée Mohammed VI Alnif (2021 - 2022)
-
-## 💼 Experience
-
-- **Media Manager** at FSTE IT CLUB (March 2025 - Present)
-  - Errachidia Province, Drâa-Tafilalet, Morocco
-  - Managing social media presence and digital communications for the club
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AMiNeC777)](https://git.io/streak-stats)
-
-## 🌐 Projects
-
-### 💬 Restaurant Chatbot Using Regex
-- A regex-powered chatbot designed for restaurant order management and customer interactions.
-- Repository: [Restaurant Chatbot Project](https://github.com/AMiNeC777/AMiNeC777-restaurant-ChatBot-using-Regex)
-
-### 🔖 Programming Language Interpreter and Compiler
-- Developing an interpreter and compiler for a custom programming language.
-
-## 🛠️ Tools & Technologies
-
-### 👨‍💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c,java,dart,plsql)](https://skillicons.dev)
-
-### 🧰 Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,tensorflow)](https://skillicons.dev)
-
-### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
-
-### ☁️ Cloud & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
-
-## 📫 Contact Me
-
-- 📧 Email: [aminehamouchi69@gmail.com](mailto:aminehamouchi69@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/amine-hamouchi](https://www.linkedin.com/in/amine-hamouchi)
-- 🐙 GitHub: [@AMiNeC777](https://github.com/AMiNeC777)
+<h1 align="center">Amine Hamouchi</h1>
+<p align="center"><strong>LLM Infrastructure · MLOps · Data Engineering</strong></p>
+<p align="center">
+  Master's student in Big Data &amp; IoT at ENSAM Casablanca<br>
+  Building model-serving systems, reproducible experiments, and data applications.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amine-hamouchi">LinkedIn</a> ·
+  <a href="mailto:aminehamouchi69@gmail.com">Email</a> ·
+  <a href="https://github.com/AMiNeC777?tab=repositories">Repositories</a>
+</p>
 
 ---
 
-<p align="center">
-  <i>"Always learning, always growing, always coding!"</i>
-</p>
+### About me
+
+I'm a developer based in **Casablanca, Morocco**, working at the intersection of machine learning and software infrastructure. My experience spans local LLM deployment, inference benchmarking, ML delivery pipelines, and full-stack applications.
+
+I'm especially interested in **inference engine optimization, efficient model serving, DevOps, and Big Data systems**: measuring how a system behaves, understanding its bottlenecks, and making deployments easier to reproduce and operate.
+
+**PFE 2027:** available from **January 2027** for a final-year internship in Morocco or internationally.
+
+### Engineering experience
+
+**AI Crafters — AI Infrastructure / LLM Engineering Intern · 2026**
+
+- Built a containerized, OpenAI-compatible serving stack with **vLLM**, an authenticated **Nginx** gateway, **Prometheus/Grafana** monitoring, and **MLflow** tracking.
+- Developed a **Next.js + FastAPI** benchmarking platform comparing **vLLM, Ollama, and llama.cpp** across models and quantization configurations.
+- Evaluated **time to first token, throughput, concurrency, GPU utilization, and degradation under load** on banking workloads.
+- Worked on inference under GPU memory constraints using **AWQ 4-bit quantization** on a **6 GB Turing GPU**, with pinned runtime versions under WSL2.
+
+**Back2Revenge — Full-Stack Developer Intern · 2026**
+
+- Built a **Turborepo of five Next.js applications** with shared authentication, navigation, and UI components.
+- Implemented **SSO, role-based access control, and PostgreSQL Row-Level Security**, alongside **Spring Boot** and **NestJS** services.
+
+### Selected public projects
+
+| Project | What it demonstrates | Main tools |
+| :--- | :--- | :--- |
+| **[MLOpsFull](https://github.com/AMiNeC777/MLOpsFull)** | Text classification with experiment tracking, CI/CD evaluation gates, API serving, monitoring, and drift detection. | SciBERT, FastAPI, MLflow, Jenkins, Docker, Prometheus, Grafana |
+| **[Arabic Sentiment Analysis](https://github.com/AMiNeC777/arabic-sentiment-analysis)** | Comparison of classical, neural, and transformer approaches to Arabic sentiment classification. | TF-IDF, FastText, CNN/LSTM, AraBERT |
+| **[Air Quality Prediction](https://github.com/AMiNeC777/AirQualityPrediction_ML)** | Environmental prediction with data preparation, regression models, and model evaluation. | Python, pandas, scikit-learn, Random Forest |
+| **[Rexi Language](https://github.com/AMiNeC777/Rexi-lang)** | An experimental programming language and Python interpreter, exploring parsing, types, and execution. | Python, language design, interpreters |
+
+### Other work
+
+- **CompTek — Big Data pipeline & marketplace:** co-founded a P2P gaming marketplace; built Kafka event ingestion, Python stream processing and anomaly detection, with HBase/HDFS event storage and PostgreSQL application data.
+- **WhatsApp order automation:** connected the WhatsApp API, n8n, and Google Sheets for a local business, including Darija replies, voice transcription, and order logging.
+
+### Technical toolkit
+
+| Area | Technologies I have worked with |
+| :--- | :--- |
+| **LLM systems** | vLLM, Ollama, llama.cpp, AWQ quantization, inference benchmarking |
+| **ML & NLP** | scikit-learn, AraBERT, pandas, NumPy, model evaluation |
+| **DevOps & MLOps** | Docker, Docker Compose, Jenkins, MLflow, Prometheus, Grafana, Nginx, Git, Linux/WSL2 |
+| **Data systems** | SQL, PostgreSQL, Kafka, HBase, Hadoop/HDFS, MongoDB |
+| **Application engineering** | Python, FastAPI, Java, Spring Boot, TypeScript/JavaScript, Next.js, NestJS |
+| **Automation** | n8n, REST APIs, WhatsApp API integrations |
+
+Currently deepening my understanding of GPU execution, inference engine internals, and scalable model-serving architectures.
+
+### Education & certifications
+
+- **Master's in Big Data & IoT (M2)** — ENSAM Casablanca · 2025–present
+- **Bachelor's in Software Engineering** — FST Errachidia · 2024–2025
+- **Microsoft Azure Fundamentals (AZ-900)** · **SQL to MongoDB Document Model**
+
+### Beyond engineering
+
+Co-founder and event manager at **VGE Club**, organizing e-sport events, logistics, and communications. Previously media manager at the **FSTE IT Club**.
+
+**Languages:** English (C1), French (B2), Arabic (C2), Amazigh (C2).  
+**Interests:** gaming, table tennis, football, VFX & motion design, and 3D design.
+
+---
+
+Interested in collaborating on LLM infrastructure, MLOps, or data engineering?  
+[Get in touch](mailto:aminehamouchi69@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/amine-hamouchi)
+
