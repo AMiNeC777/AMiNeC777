@@ -10,6 +10,11 @@
   <a href="https://github.com/AMiNeC777?tab=repositories">Repositories</a>
 </p>
 
+<p align="center">
+  <a href="mailto:aminehamouchi69@gmail.com"><img src="https://img.shields.io/badge/PFE%202027-Available%20January-0F766E?style=flat-square" alt="Available for a PFE internship from January 2027"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Casablanca-334155?style=flat-square" alt="Based in Casablanca, Morocco">
+</p>
+
 ---
 
 ### About me
@@ -50,6 +55,33 @@ I'm especially interested in **inference engine optimization, efficient model se
 
 ### Technical toolkit
 
+<p><strong>AI & data</strong></p>
+<a href="https://github.com/tandpfun/skill-icons">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=dark&amp;perline=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=light&amp;perline=6">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,kafka,postgres,mongodb&amp;theme=light&amp;perline=6" alt="Python, scikit-learn, FastAPI, Kafka, PostgreSQL and MongoDB" width="320">
+  </picture>
+</a>
+
+<p><strong>Infrastructure & delivery</strong></p>
+<a href="https://github.com/tandpfun/skill-icons">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=dark&amp;perline=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=light&amp;perline=6">
+    <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,prometheus,grafana,nginx&amp;theme=light&amp;perline=6" alt="Docker, Linux, Jenkins, Prometheus, Grafana and Nginx" width="320">
+  </picture>
+</a>
+
+<p><strong>Application engineering</strong></p>
+<a href="https://github.com/tandpfun/skill-icons">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=dark&amp;perline=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=light&amp;perline=6">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nestjs,git&amp;theme=light&amp;perline=6" alt="Java, Spring, TypeScript, Next.js, NestJS and Git" width="320">
+  </picture>
+</a>
+
 | Area | Technologies I have worked with |
 | :--- | :--- |
 | **LLM systems** | vLLM, Ollama, llama.cpp, AWQ quantization, inference benchmarking |
@@ -79,3 +111,5 @@ Co-founder and event manager at **VGE Club**, organizing e-sport events, logisti
 Interested in collaborating on LLM infrastructure, MLOps, or data engineering?  
 [Get in touch](mailto:aminehamouchi69@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/amine-hamouchi)
 
+
+<sub>Technology graphics: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> · Badges: <a href="https://github.com/badges/shields">Shields.io</a></sub>
